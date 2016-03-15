@@ -155,6 +155,7 @@
       { "type": "vcs", "url": "git://github.com/avoelkl/Magento-Two-factor-Authentication.git" },
       { "type": "vcs", "url": "git://github.com/mklooss/Loewenstark_Newsletter.git" },
       { "type": "vcs", "url": "git://github.com/mklooss/Loewenstark_Seo.git" },
+      { "type": "vcs", "url": "git://github.com/mageprofis/MageProfis_GoogleMaps.git" },
       { "type": "vcs", "url": "git://github.com/SchumacherFM/Magento-OptimizedBackendLogin.git" },
       { "type": "vcs", "url": "git://github.com/SchumacherFM/Magento-Markdown.git" },
       { "type": "vcs", "url": "git://github.com/SchumacherFM/Anonygento.git" },
